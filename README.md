@@ -18,7 +18,7 @@
 <br>
 <br>  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=viccctoria&show_icons=true&locale=en" alt="viccctoria" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=viccctoria&show_icons=true&locale=en&themes=dracula" alt="viccctoria" /></p>
 
 <!---
 viccctoria/viccctoria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
