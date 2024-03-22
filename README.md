@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Victória</h1>
-<h3 align="center">Front End student</h3>
+<h3 align="center"></h3>
 
 - 📫 How to reach me **contato.victoriamilan@gmail.com**
 
