@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm Victória :)</h1>
 - 📫 How to reach me contato.victoriamilan@gmail.com
 <br/>
-- 📕 Currently studying:  UI/UX Design
 
 
 
